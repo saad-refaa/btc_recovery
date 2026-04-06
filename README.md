@@ -428,4 +428,4 @@ Please read CONTRIBUTING.md for details on our code of conduct and the process f
 
 ## Support
 
-For support and questions, please check the documentation in the `docs/` directory.
+saadr2851@gamil.com
